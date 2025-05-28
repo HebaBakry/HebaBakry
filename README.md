@@ -19,12 +19,13 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+**Frontend & Mobile:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
@@ -35,8 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
 ---
 
 ### 📈 GitHub Stats
