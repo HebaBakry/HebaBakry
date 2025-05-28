@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Heba Bakry</h1>
+<h1 align="center">
+  Hi there 👋, I'm Heba Bakry
+  <img src="https://your-image-url.com/image.png" alt="Heba Bakry" width="50" height="50" style="border-radius:50%" />
+</h1>
 <h3 align="center">💻 Computer Engineer | Full-Stack & Cross-Platform Mobile Developer</h3>
 
 ---
@@ -42,8 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HebaBakry&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HebaBakry&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
