@@ -48,7 +48,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: Heba.m.nakry@gmail.com  
+- 📧 Email: Heba.m.bakry@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/heba-m-bakry
 
   
