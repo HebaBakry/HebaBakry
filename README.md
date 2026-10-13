@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there ❤️, I'm Heba Bakry</h1>
-<h3 align="center">💻 Computer Engineer | Full-Stack & Cross-Platform Mobile Developer</h3>
+<h3 align="center">💻 Computer Engineer | Cross-Platform Mobile Developer</h3>
 
 ---
 
